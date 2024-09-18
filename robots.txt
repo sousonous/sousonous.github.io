@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sousonous.github.io/sitemap.html.gz
+Sitemap: https://sousonous.github.io/app/sitemap.html.gz
+Sitemap: https://sousonous.github.io/assets/sitemap.html.gz
+Sitemap: https://sousonous.github.io/css/sitemap.html.gz
+Sitemap: https://sousonous.github.io/includes/sitemap.html.gz
+Sitemap: https://sousonous.github.io/item/sitemap.html.gz
+Sitemap: https://sousonous.github.io/src/sitemap.html.gz
